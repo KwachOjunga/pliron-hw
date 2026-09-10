@@ -1,4 +1,0 @@
-    Checking pliron-hw v0.1.0 (/home/gevurah/compilers/pliron-hw)
-error: could not compile `pliron-hw` (lib test) due to 2 previous errors; 3 warnings emitted
-warning: build failed, waiting for other jobs to finish...
-error: could not compile `pliron-hw` (lib) due to 2 previous errors; 3 warnings emitted

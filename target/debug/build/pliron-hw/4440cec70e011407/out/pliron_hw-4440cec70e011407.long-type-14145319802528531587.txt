@@ -1,1 +1,0 @@
-&mut pliron::combine::stream::state::Stream<pliron::combine::stream::buffered::Stream<pliron::combine::easy::Stream<pliron::combine::stream::position::Stream<IteratorStream<CharIterator<'a>>, SourcePosition>>>, pliron::parsable::State<'a>>
